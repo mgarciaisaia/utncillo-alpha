@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: UTNs
+Label: UTNcillo
+Codename: lombardi
+Date: Fri, 19 Jul 2013 05:07:06 UTC
+Architectures: i386 amd64
+Components: contrib
+Description: Repositorio pre-alpha de UTNcillo
+MD5Sum:
+ 38d700024439671ff8be0d1fb8584555 840 contrib/binary-i386/Packages
+ 7401d15df0aa6cd417fabff07256ecb3 488 contrib/binary-i386/Packages.gz
+ 8d62e8c53edfe473eae15d34294cc4c0 114 contrib/binary-i386/Release
+ 38d700024439671ff8be0d1fb8584555 840 contrib/binary-amd64/Packages
+ 7401d15df0aa6cd417fabff07256ecb3 488 contrib/binary-amd64/Packages.gz
+ fac6b1abaac1d31b8885a156c1f11800 115 contrib/binary-amd64/Release
+SHA1:
+ c66471d637b51bf048d1fe86fd9d47d17ee86f23 840 contrib/binary-i386/Packages
+ 80195d7e0b787d2a6f4214cee0a1a9915cb36b1b 488 contrib/binary-i386/Packages.gz
+ 3d2a08e9056b4cacf56c735a13652ab2facefd99 114 contrib/binary-i386/Release
+ c66471d637b51bf048d1fe86fd9d47d17ee86f23 840 contrib/binary-amd64/Packages
+ 80195d7e0b787d2a6f4214cee0a1a9915cb36b1b 488 contrib/binary-amd64/Packages.gz
+ 4a9f6c59c6518041234959d95f3b2624be4aca1d 115 contrib/binary-amd64/Release
+SHA256:
+ 8abc75e0c834a2b784b383f027c78d8c5c9dfc906b7ba11eaf18f22c3fe116fa 840 contrib/binary-i386/Packages
+ 544d6640abb031a96e50929104d8bca1e2bdb925bc98c07e2d77bf8bc0932e76 488 contrib/binary-i386/Packages.gz
+ 20c070e4e08efe857ec3040a3aede845df429a7fb0d88a0f81081eb18dd45a7a 114 contrib/binary-i386/Release
+ 8abc75e0c834a2b784b383f027c78d8c5c9dfc906b7ba11eaf18f22c3fe116fa 840 contrib/binary-amd64/Packages
+ 544d6640abb031a96e50929104d8bca1e2bdb925bc98c07e2d77bf8bc0932e76 488 contrib/binary-amd64/Packages.gz
+ 1e80dc0712660dda9a137d6c7ddee6b69c71c3dab12abb02f87ca739b03bd92d 115 contrib/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQIcBAEBAgAGBQJR6MmAAAoJEIsTqzfaR38HLLcP/1ctVfJNBvmKugbMxEKjtq9D
+MHb+DZlOoB4nZZpopXsf5OgPNgWawQP8TUJLH+OVNlFfof4KQKw5QrK985is3cOT
+dLv4WragmvNo0hLCPHV8HP9eCS1z9dwwHJHLAxdGL18/iS7njUg8eccgVmMB5Ahh
+5srWIuPXTBXapYYO8rUtg0cO3ApCuJeGV/iq0XtIMP5aHujdC3F6SwGgFZpl67Dw
+2wqJKlgBnVvGLnSALlpK7uB9+L91vLy8FsQ2gh1OyJlJ+MQ+2QOhj3D1Yst6cqQz
+BbgURRg+/oT432Hf+Mc/+21qTOKdb/yhfMpas0u+cZJnRqyUlGI+MnycAYXFg/Vw
+ix5IUIncVgwOQZtlhes2UFkRAXucfrhKqKFlKObgJm/7tqUczZduDiKeP+/oLE/B
+0Czk+E7tkkZK5qPr+gtIJsSIilD6HJbcmnhN02bOWaK+lJgOU8NG+PmPa/1XmJJK
+Fk4bvtjOSGayqxE/Yh34BPKnatsEkcO834FMji3nmaV7Hf5bY11RzhENjzKsO9hr
+DT0ibKoy551eB6VRoiAEnVq3BCWpzpEhv6bqraOVfs8gqoc9tv9A24s4eud/EqR+
+jFM+eoO+iaQz9sYATrZyqgHmBESD85igxp56bT2Dvk0A1dq5CyEmoq/IWi3M17JJ
+Uy8cu3ApZtWhZc+ychG8
+=7NJq
+-----END PGP SIGNATURE-----

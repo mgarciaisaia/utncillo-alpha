@@ -1,0 +1,17 @@
+Package: matematica-discreta-frba
+Version: 2010.03.10.1
+Architecture: all
+Maintainer: Desert69 <desert69@gmail.com>
+Installed-Size: 60
+Priority: optional
+Section: utn
+Filename: pool/contrib/m/matematica-discreta-frba/matematica-discreta-frba_2010.03.10.1_all.deb
+Size: 13938
+SHA256: f0202a94d790321191cb5d989f069567a949f519d53e0146917fe8571b5f57ef
+SHA1: 62e0b5b5b055eb7e6873d630e1019f930714c2e7
+MD5sum: 07f91151ebc4e169ad31c047a60b3551
+Description: Metapaquete de Matemática Discreta de la FRBA
+ Este es un metapaquete para instalar el software necesario para cursar la materia Matemática Discreta de la FRBA de la Universidad Tecnológica Nacional.
+ .
+ matematica-discreta-frba es un paquete proveido por UTNcillo para facilitar la instalación del software necesario para cursar en la Universidad. Este paquete está mantenido por Desert69
+
