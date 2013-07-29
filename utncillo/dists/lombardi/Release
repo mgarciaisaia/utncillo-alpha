@@ -1,28 +1,28 @@
 Origin: UTNs
 Label: UTNcillo
 Codename: lombardi
-Date: Fri, 19 Jul 2013 05:07:06 UTC
+Date: Mon, 29 Jul 2013 06:02:33 UTC
 Architectures: i386 amd64
 Components: contrib
 Description: Repositorio pre-alpha de UTNcillo
 MD5Sum:
- 38d700024439671ff8be0d1fb8584555 840 contrib/binary-i386/Packages
- 7401d15df0aa6cd417fabff07256ecb3 488 contrib/binary-i386/Packages.gz
+ dc9271a503947cf2e2b54720c6ab1ce8 2717 contrib/binary-i386/Packages
+ 81a8fb48701519c576f35ee62ce95530 900 contrib/binary-i386/Packages.gz
  8d62e8c53edfe473eae15d34294cc4c0 114 contrib/binary-i386/Release
- 38d700024439671ff8be0d1fb8584555 840 contrib/binary-amd64/Packages
- 7401d15df0aa6cd417fabff07256ecb3 488 contrib/binary-amd64/Packages.gz
+ dc9271a503947cf2e2b54720c6ab1ce8 2717 contrib/binary-amd64/Packages
+ 81a8fb48701519c576f35ee62ce95530 900 contrib/binary-amd64/Packages.gz
  fac6b1abaac1d31b8885a156c1f11800 115 contrib/binary-amd64/Release
 SHA1:
- c66471d637b51bf048d1fe86fd9d47d17ee86f23 840 contrib/binary-i386/Packages
- 80195d7e0b787d2a6f4214cee0a1a9915cb36b1b 488 contrib/binary-i386/Packages.gz
+ f2017c33fa7d209f8bc0f9993fec5f126cd1e9c8 2717 contrib/binary-i386/Packages
+ 012fe3b367f306647f33a57321523b2f909b6873 900 contrib/binary-i386/Packages.gz
  3d2a08e9056b4cacf56c735a13652ab2facefd99 114 contrib/binary-i386/Release
- c66471d637b51bf048d1fe86fd9d47d17ee86f23 840 contrib/binary-amd64/Packages
- 80195d7e0b787d2a6f4214cee0a1a9915cb36b1b 488 contrib/binary-amd64/Packages.gz
+ f2017c33fa7d209f8bc0f9993fec5f126cd1e9c8 2717 contrib/binary-amd64/Packages
+ 012fe3b367f306647f33a57321523b2f909b6873 900 contrib/binary-amd64/Packages.gz
  4a9f6c59c6518041234959d95f3b2624be4aca1d 115 contrib/binary-amd64/Release
 SHA256:
- 8abc75e0c834a2b784b383f027c78d8c5c9dfc906b7ba11eaf18f22c3fe116fa 840 contrib/binary-i386/Packages
- 544d6640abb031a96e50929104d8bca1e2bdb925bc98c07e2d77bf8bc0932e76 488 contrib/binary-i386/Packages.gz
+ 80956e4dca67fd2d20129afaa9e5f6606c61405092b5cff69f915d0a94e0a413 2717 contrib/binary-i386/Packages
+ 62992a0992a25f37f53c9c3285933af25e08b3c797f59cd438f147f4be8f7675 900 contrib/binary-i386/Packages.gz
  20c070e4e08efe857ec3040a3aede845df429a7fb0d88a0f81081eb18dd45a7a 114 contrib/binary-i386/Release
- 8abc75e0c834a2b784b383f027c78d8c5c9dfc906b7ba11eaf18f22c3fe116fa 840 contrib/binary-amd64/Packages
- 544d6640abb031a96e50929104d8bca1e2bdb925bc98c07e2d77bf8bc0932e76 488 contrib/binary-amd64/Packages.gz
+ 80956e4dca67fd2d20129afaa9e5f6606c61405092b5cff69f915d0a94e0a413 2717 contrib/binary-amd64/Packages
+ 62992a0992a25f37f53c9c3285933af25e08b3c797f59cd438f147f4be8f7675 900 contrib/binary-amd64/Packages.gz
  1e80dc0712660dda9a137d6c7ddee6b69c71c3dab12abb02f87ca739b03bd92d 115 contrib/binary-amd64/Release

@@ -1,3 +1,21 @@
+Package: electronica-frba
+Version: 2013.07.29.05.48
+Architecture: all
+Maintainer: Matias Garcia Isaia <mgarciaisaia@gmail.com>
+Installed-Size: 60
+Depends: electronica-frba-1, electronica-frba-2, electronica-frba-3, electronica-frba-4, electronica-frba-5
+Priority: optional
+Section: utn
+Filename: pool/contrib/e/electronica-frba/electronica-frba_2013.07.29.05.48_all.deb
+Size: 13954
+SHA256: afceb8ba0e23c4f5408fd295989d8246e5a90f8f8ede12765067e372c47a2bd8
+SHA1: b5da05f7418c4b85fdad5c1a3776a83458f5b293
+MD5sum: e56a728c2e89f6799b86076768ca94c0
+Description: Metapaquete de Ingenieria Electronica de la FRBA
+ Metapaquete instalador del software necesario para cursar la carrera de Ingenieria Electronica de la FRBA de la Universidad Tecnologica Nacional.
+ .
+ electronica-frba es proveido por UTNcillo para facilitar la instalacion del software necesario para cursar en la UTN. Este paquete esta mantenido por Matias Garcia Isaia <mgarciaisaia@gmail.com>
+
 Package: matematica-discreta-frba
 Version: 2010.03.10.1
 Architecture: all
@@ -14,4 +32,22 @@ Description: Metapaquete de Matemática Discreta de la FRBA
  Este es un metapaquete para instalar el software necesario para cursar la materia Matemática Discreta de la FRBA de la Universidad Tecnológica Nacional.
  .
  matematica-discreta-frba es un paquete proveido por UTNcillo para facilitar la instalación del software necesario para cursar en la Universidad. Este paquete está mantenido por Desert69
+
+Package: sistemas-frba
+Version: 2013.07.29.06.02
+Architecture: all
+Maintainer: Matias Garcia Isaia <mgarciaisaia@gmail.com>
+Installed-Size: 60
+Depends: sistemas-frba-1, sistemas-frba-2, sistemas-frba-3, sistemas-frba-4, sistemas-frba-5
+Priority: optional
+Section: utn
+Filename: pool/contrib/s/sistemas-frba/sistemas-frba_2013.07.29.06.02_all.deb
+Size: 13954
+SHA256: 4426be83f3c18f0b8cca290598edcdf88ebb312bd99eb7ec0fc63448c4da2b25
+SHA1: f2545c4e6781825b6d95e81c414e9333d2e67003
+MD5sum: 377a930913caeff6b3bd85d6481c3466
+Description: Metapaquete de Ingenieria en Sistemas de la FRBA
+ Metapaquete instalador del software necesario para cursar la carrera de Ingenieria en Sistemas de la FRBA de la Universidad Tecnologica Nacional.
+ .
+ sistemas-frba es proveido por UTNcillo para facilitar la instalacion del software necesario para cursar en la UTN. Este paquete esta mantenido por Matias Garcia Isaia <mgarciaisaia@gmail.com>
 

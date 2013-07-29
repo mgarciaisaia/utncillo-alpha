@@ -4,45 +4,45 @@ Hash: SHA1
 Origin: UTNs
 Label: UTNcillo
 Codename: lombardi
-Date: Fri, 19 Jul 2013 05:07:06 UTC
+Date: Mon, 29 Jul 2013 06:02:33 UTC
 Architectures: i386 amd64
 Components: contrib
 Description: Repositorio pre-alpha de UTNcillo
 MD5Sum:
- 38d700024439671ff8be0d1fb8584555 840 contrib/binary-i386/Packages
- 7401d15df0aa6cd417fabff07256ecb3 488 contrib/binary-i386/Packages.gz
+ dc9271a503947cf2e2b54720c6ab1ce8 2717 contrib/binary-i386/Packages
+ 81a8fb48701519c576f35ee62ce95530 900 contrib/binary-i386/Packages.gz
  8d62e8c53edfe473eae15d34294cc4c0 114 contrib/binary-i386/Release
- 38d700024439671ff8be0d1fb8584555 840 contrib/binary-amd64/Packages
- 7401d15df0aa6cd417fabff07256ecb3 488 contrib/binary-amd64/Packages.gz
+ dc9271a503947cf2e2b54720c6ab1ce8 2717 contrib/binary-amd64/Packages
+ 81a8fb48701519c576f35ee62ce95530 900 contrib/binary-amd64/Packages.gz
  fac6b1abaac1d31b8885a156c1f11800 115 contrib/binary-amd64/Release
 SHA1:
- c66471d637b51bf048d1fe86fd9d47d17ee86f23 840 contrib/binary-i386/Packages
- 80195d7e0b787d2a6f4214cee0a1a9915cb36b1b 488 contrib/binary-i386/Packages.gz
+ f2017c33fa7d209f8bc0f9993fec5f126cd1e9c8 2717 contrib/binary-i386/Packages
+ 012fe3b367f306647f33a57321523b2f909b6873 900 contrib/binary-i386/Packages.gz
  3d2a08e9056b4cacf56c735a13652ab2facefd99 114 contrib/binary-i386/Release
- c66471d637b51bf048d1fe86fd9d47d17ee86f23 840 contrib/binary-amd64/Packages
- 80195d7e0b787d2a6f4214cee0a1a9915cb36b1b 488 contrib/binary-amd64/Packages.gz
+ f2017c33fa7d209f8bc0f9993fec5f126cd1e9c8 2717 contrib/binary-amd64/Packages
+ 012fe3b367f306647f33a57321523b2f909b6873 900 contrib/binary-amd64/Packages.gz
  4a9f6c59c6518041234959d95f3b2624be4aca1d 115 contrib/binary-amd64/Release
 SHA256:
- 8abc75e0c834a2b784b383f027c78d8c5c9dfc906b7ba11eaf18f22c3fe116fa 840 contrib/binary-i386/Packages
- 544d6640abb031a96e50929104d8bca1e2bdb925bc98c07e2d77bf8bc0932e76 488 contrib/binary-i386/Packages.gz
+ 80956e4dca67fd2d20129afaa9e5f6606c61405092b5cff69f915d0a94e0a413 2717 contrib/binary-i386/Packages
+ 62992a0992a25f37f53c9c3285933af25e08b3c797f59cd438f147f4be8f7675 900 contrib/binary-i386/Packages.gz
  20c070e4e08efe857ec3040a3aede845df429a7fb0d88a0f81081eb18dd45a7a 114 contrib/binary-i386/Release
- 8abc75e0c834a2b784b383f027c78d8c5c9dfc906b7ba11eaf18f22c3fe116fa 840 contrib/binary-amd64/Packages
- 544d6640abb031a96e50929104d8bca1e2bdb925bc98c07e2d77bf8bc0932e76 488 contrib/binary-amd64/Packages.gz
+ 80956e4dca67fd2d20129afaa9e5f6606c61405092b5cff69f915d0a94e0a413 2717 contrib/binary-amd64/Packages
+ 62992a0992a25f37f53c9c3285933af25e08b3c797f59cd438f147f4be8f7675 900 contrib/binary-amd64/Packages.gz
  1e80dc0712660dda9a137d6c7ddee6b69c71c3dab12abb02f87ca739b03bd92d 115 contrib/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQIcBAEBAgAGBQJR6MmAAAoJEIsTqzfaR38HLLcP/1ctVfJNBvmKugbMxEKjtq9D
-MHb+DZlOoB4nZZpopXsf5OgPNgWawQP8TUJLH+OVNlFfof4KQKw5QrK985is3cOT
-dLv4WragmvNo0hLCPHV8HP9eCS1z9dwwHJHLAxdGL18/iS7njUg8eccgVmMB5Ahh
-5srWIuPXTBXapYYO8rUtg0cO3ApCuJeGV/iq0XtIMP5aHujdC3F6SwGgFZpl67Dw
-2wqJKlgBnVvGLnSALlpK7uB9+L91vLy8FsQ2gh1OyJlJ+MQ+2QOhj3D1Yst6cqQz
-BbgURRg+/oT432Hf+Mc/+21qTOKdb/yhfMpas0u+cZJnRqyUlGI+MnycAYXFg/Vw
-ix5IUIncVgwOQZtlhes2UFkRAXucfrhKqKFlKObgJm/7tqUczZduDiKeP+/oLE/B
-0Czk+E7tkkZK5qPr+gtIJsSIilD6HJbcmnhN02bOWaK+lJgOU8NG+PmPa/1XmJJK
-Fk4bvtjOSGayqxE/Yh34BPKnatsEkcO834FMji3nmaV7Hf5bY11RzhENjzKsO9hr
-DT0ibKoy551eB6VRoiAEnVq3BCWpzpEhv6bqraOVfs8gqoc9tv9A24s4eud/EqR+
-jFM+eoO+iaQz9sYATrZyqgHmBESD85igxp56bT2Dvk0A1dq5CyEmoq/IWi3M17JJ
-Uy8cu3ApZtWhZc+ychG8
-=7NJq
+iQIcBAEBAgAGBQJR9gV6AAoJEIsTqzfaR38HYWwQALEaGiR4H4Z+qkkSZ7881FQ+
+2RzPGl7WfdfkEVDrZBx13zTiQe1j3UpJ3U40EZ6n94mFrOwrII06IqpiVGj7q1E9
+ne+Kl5BTBKxP2u4K1D00ajgQT9LFHlbH/u2EfK8+GWrq2GbGmdpt8lDbu5eW+6sV
+lbsRtVFjbYEL8DyGh6xgG46430TYXzEUBhkMxSMe1WDa5h9yw5F+6Dj5N3KHp8HX
+V56zud996ccj+/Wl7aGk10JwpmfThV4q3PKPn34CloY5/jx9+J8hpewOTXFAOdFG
+9gurA7q43ydu9grXfIjEqPPyDcYg9pLx+ZIGjqfq7YvI1ZOAv6obypAHtciz/S4F
+novVEOFH59cw60N4DckLofi3VELbPgzEJDA8+CREQ1WNVm+48VY8g4nSJ3ZISfvo
+PZUS2J9/sAlnfksk7AqHh9rg6ExTVztusK8DUVKnPYpBinVf0VmJXuLj95L8MRjR
+0aVpMh9nkz/1c2RvPi7sIrtLetTBfF1FmN/ABvetlWccCIy1NdghKL6Bq6GIYzsK
+Fz6fEV9yD0ySxV8dK/6U1rBpoeQseejLZ0FwQIySiZ4EKY5mxcDaMzaIsVkBBo4T
+z59rSeEvTG9uXTEZJmFA+R17OvshkD2UYAhWkKq9Di+QLnacikuKZMlcnfR+KkJ9
+wR3pn/5Kluh+EQAZDV5h
+=MGRX
 -----END PGP SIGNATURE-----
